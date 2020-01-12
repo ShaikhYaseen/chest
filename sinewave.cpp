@@ -1,3 +1,4 @@
+//A cpp program to print a sine wave in command prompt
 #include <iostream>
 #include <cmath>
 
